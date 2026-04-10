@@ -1,20 +1,20 @@
 {
   "name": "codice-sconto-mediaworld",
   "version": "1.0.0",
-  "description": "Fetch automat de coduri de reducere MediaWorld de pe shopilo.it",
+  "description": "Recupero automatico di codici sconto MediaWorld da shopilo.it",
   "main": "index.js",
   "keywords": [
-    "cod-reducere",
-    "cod-reducere-mediaworld",
+    "codice-sconto",
+    "codice-sconto-mediaworld",
     "voucher-mediaworld",
-    "cupon-mediaworld",
-    "reduceri",
+    "coupon-mediaworld",
+    "sconti",
     "shopilo",
-    "cupoane"
+    "coupon"
   ],
   "author": "shopilo-it",
   "license": "MIT",
-  "homepage": "https://shopilo.it/magazin/mediaworld.it",
+  "homepage": "https://shopilo.it/negozi/mediaworld.it",
   "repository": {
     "type": "git",
     "url": "https://github.com/shopilo-it/codice-sconto-mediaworld.git"
